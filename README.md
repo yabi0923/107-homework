@@ -12,3 +12,4 @@ week 3
 
 week 4
 *ttt.html
+*blog.html
