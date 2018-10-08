@@ -8,12 +8,15 @@
             body{
                 background-color: #d1fced
             }
+            .mama{
+                margin-top: 10px
+            }
         </style>
     </head>
     
     <body>
        <form>
-        <img src="profile1.jpg" class="img">
+        <img src="profile1.jpg">
         <fieldset>
             <legend>個人資訊</legend>
             姓名：<input type="text" name="名字"><br>
@@ -35,8 +38,12 @@
             <input type="checkbox" name="活動" value="看電影">看電影
             <input type="checkbox" name="活動" value="逛街">逛街
             <input type="checkbox" name="活動" value="旅行">旅行
-            <input type="checkbox" name="活動" value="閱讀">閱讀
+            <input type="checkbox" name="活動" value="閱讀">閱讀<br>
+            您對於使用臉書經營社群有何看法？<br>
+            <textarea cols="40" rows="5" name="有何看法"></textarea>
         </fieldset>
+        <input type="submit" value="傳送資料" class="mama">
+        <input type="reset" value="清除資料" class="mama">
     </form>
     </body>
     
