@@ -1,0 +1,29 @@
+header{
+    width: 800px;
+    height: 80px;
+    background-color:  #330000
+}
+
+aside{
+    width: 160px;
+    height: 400px;
+    background: url(../images-p/bg_lt.png);
+    float: left
+}
+article{
+    width: 638px;
+    height: 400px;
+    margin-left: 161px;
+    background-color: bisque
+}
+footer{
+    width: 800px;
+    height: 80px;
+    background-color:  #330000;
+    text-align: center;
+    line-height: 80px
+}
+.char{
+    color: white;
+    
+}
