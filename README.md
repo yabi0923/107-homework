@@ -4,20 +4,20 @@
 
 ## week 2
 * [table.html](https://yabi0923.github.io/107-homework/w02/table.html)
-* [myclass.html]()
+* [myclass.html](https://yabi0923.github.io/107-homework/w02/myclass.html)
 
 ## week 3
-* [tku60.html]()
-* [div.html]()
+* [tku60.html](https://yabi0923.github.io/107-homework/w03/tku60.html)
+* [div.html](https://yabi0923.github.io/107-homework/w03/div.html)
 
 ## week 4
-* [ttt.html]()
-* [blog.html]()
-* [profile.html]()
+* [ttt.html](https://yabi0923.github.io/107-homework/w04/ttt.html)
+* [blog.html](https://yabi0923.github.io/107-homework/w04/blog.html)
+* [profile.html](https://yabi0923.github.io/107-homework/w04/profile.html)
 
 ## week 5
-* [image gallery.html]()
+* [image gallery.html](https://yabi0923.github.io/107-homework/w05/imagegallery.html)
 * [pet website.html]()
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1NzU5NTY3NywxMzU5NjQxMTQ2XX0=
+eyJoaXN0b3J5IjpbLTY3OTI1NzU5MCwxMzU5NjQxMTQ2XX0=
 -->
