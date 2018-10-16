@@ -4,7 +4,7 @@
 
 ## week 2
 * [table.html](https://yabi0923.github.io/107-homework/w02/table.html)
-* [myclass.html](https://yabi0923.github.io/107-homework/w02/myclass.html)
+* [my class.html](https://yabi0923.github.io/107-homework/w02/myclass.html)
 
 ## week 3
 * [tku60.html](https://yabi0923.github.io/107-homework/w03/tku60.html)
@@ -20,6 +20,6 @@
 * [pet website.html](https://yabi0923.github.io/107-homework/w05/petwebsite.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExMDEzMjI5OCwtNDQyMzc3OTU2LDEzNT
-k2NDExNDZdfQ==
+eyJoaXN0b3J5IjpbMzM0NDI0ODAwLDIxMTAxMzIyOTgsLTQ0Mj
+M3Nzk1NiwxMzU5NjQxMTQ2XX0=
 -->
