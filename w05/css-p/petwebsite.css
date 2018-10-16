@@ -1,40 +1,64 @@
-header{
-    width: 800px;
-    height: 80px;
-    background-color:  #330000
+body {
+    font-family: arial, helvetica sans-serif, 微軟正黑體;
+    background-image: url(../images-p/bg.jpg)
 }
 
-aside{
+header {
+    width: 800px;
+    height: 80px;
+    background-color: #330000
+}
+
+h1#text1 {
+    position: absolute;
+    color: red;
+    margin-left: 50px;
+    margin-top: 15px
+}
+
+h1#text2 {
+    position: absolute;
+    color: white;
+    margin-left: 150px;
+    margin-top: 35px
+}
+
+aside {
     width: 160px;
     height: 400px;
     background: url(../images-p/bg_lt.png);
     float: left
 }
-article{
+
+article {
     width: 638px;
     height: 400px;
     margin-left: 161px;
-    background-color: bisque
+    background-color: white
 }
-footer{
+
+footer {
     width: 800px;
     height: 80px;
-    background-color:  #330000;
+    background-color: #330000;
     text-align: center;
     line-height: 80px
 }
-.word{
-    color: white; 
+
+.word {
+    color: white;
 }
+
 nav {
     margin-top: 150px;
 }
 
-nav ul{
+nav ul {
     list-style: none;
     padding: 8px
 }
-nav ul li a{
+
+nav ul li a {
     display: block;
     width: 150px;
     height: 40px;
@@ -42,7 +66,28 @@ nav ul li a{
     text-indent: 50px;
     line-height: 35px;
 }
-nav ul li a:hover{
+
+nav ul li a:hover {
     color: white;
     background-image: url(../images-p/btn_hover.png)
+}
+
+legend{
+    text-align: center
+}
+
+.consection{
+    margin: 0px auto;
+    width: 400px;
+    padding-top: 20px;
+}
+
+fieldset{
+    border-radius: 10px;
+}
+
+.img1{
+    width: 120px;
+    border-radius: 15px;
+    margin: 5px;
 }
